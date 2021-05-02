@@ -1,0 +1,13 @@
+@charset"UTF-8";
+
+/*typo*/
+
+html{
+    font-family: "Roboto", sans-serif;
+    line-height: 62.5%;
+}
+h3,
+q{
+    font-family: "Times New Roman", serif;
+    font-weight: bold;
+}
