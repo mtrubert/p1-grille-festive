@@ -1,0 +1,17 @@
+/* Variables et utilitaires
+   ========================================================================== */
+
+/****** Variables (peuvent être utilisées dans tous les fichiers) *******/
+:root {
+
+
+    --color-Y: #dba70d;
+    --color-R: #E13EB6;
+    --color-B: #77D0C9;
+}
+
+
+/*** Harmoniser le modèle de boîte avec Box-Sizing ***/
+html {
+    box-sizing: border-box;
+}
